@@ -1,4 +1,4 @@
-Data processing Pipe
+Data processing Pipeline
 .- Convert_2_wav
 .- Compute_FFT
 .- Compute_Power
